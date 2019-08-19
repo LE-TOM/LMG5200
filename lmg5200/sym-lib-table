@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name lmg5200-rescue)(type Legacy)(uri ${KIPRJMOD}/lmg5200-rescue.lib)(options "")(descr ""))
+)
